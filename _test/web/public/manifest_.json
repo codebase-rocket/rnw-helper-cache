@@ -1,0 +1,25 @@
+{
+  "short_name": "Customer App",
+  "name": "Customer App",
+  "icons": [
+    {
+      "src": "../../src/asset/images/cfd.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "../../src/asset/images/deathNote.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "../../src/asset/images/cfd.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "web/public/index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

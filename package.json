@@ -1,0 +1,25 @@
+{
+  "name": "@codebase-rocket/rnw-helper-cache",
+  "description": "Library for caching assets in React Native and web applications.",
+  "version": "1.0.3",
+  "private": false,
+  "main": "./cache",
+  "scripts": {},
+  "dependencies": {
+    "react-native-fs": "^2.20.0",
+    "js-helper-utils": "npm:@codebase-rocket/js-helper-utils@^1.0.0",
+    "js-helper-debug": "npm:@codebase-rocket/js-helper-debug@^1.0.0"
+  },
+  "author": {
+    "name": "Anand Kumar Singh"
+  },
+  "contributors": [
+    {
+      "name": "Shivanshu Jindal"
+    }
+  ],
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  },
+  "devDependencies": {}
+}
